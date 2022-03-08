@@ -5,7 +5,7 @@ This tutorial has only been tested for Linux environment. It will need to be upd
 
 Install Python, TensorFlow, JSBSim and Gym-JSBSim
 1. Install Python
-    https://www.python.org/downloads/
+https://www.python.org/downloads/
 2. Install TensorFlow
 Do all of the steps in https://www.tensorflow.org/install/source
 3. (Optional) Install Anaconda if you want to use Jupiter Notebook for graphs
