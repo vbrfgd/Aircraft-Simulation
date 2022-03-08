@@ -1,9 +1,9 @@
 # Aircraft-Simulation
 
-##Installing
+## Installing
 This tutorial has only been tested for Linux environment. It will need to be updated in the future.
 
-###Install Python, TensorFlow, JSBSim and Gym-JSBSim
+### Install Python, TensorFlow, JSBSim and Gym-JSBSim
 1. Install Python:
 https://www.python.org/downloads/
 2. Install TensorFlow:
