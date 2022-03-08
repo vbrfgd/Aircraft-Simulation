@@ -41,7 +41,7 @@ fgfs --version
 ```
 
 ### Executing the program
-1. Create a virtual environment. Paste the file [ddpg-agent-jsbsim.py](ddpg-agent-jsbsim.py) inside gym-jsbsim folder. In a Python virtutal environment, the folder is located in venv/lib/python3.8/site-packages.
+1. Create a virtual environment. Paste the file [ddpg-agent-jsbsim.py](ddpg-agent-jsbsim.py) inside gym-jsbsim folder. In a Python virtutal environment, the folder is located in ```venv/lib/python3.8/site-packages```.
 2. Run ddpg-agent-jsbsim.py. Start with NoFG in the environment name, for example:  
 ```
 env = gym.make('JSBSim-TurnHeadingControl-Cessna172P-SHAPING.STANDARD-NoFG-v0')
